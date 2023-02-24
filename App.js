@@ -10,7 +10,6 @@ export default function App() {
         className="w-40 h-28 mt-14 ml-28"
         source={{uri: "https://th.bing.com/th/id/OIP.OF59vsDmwxPP1tw7b_8clQHaE8?pid=ImgDet&rs=1"}} />
       </View>
-
       <View className="bg-orange-500 justify-center h-96">
           <TextInput className="bg-white m-10 h-10 p-2 text-lg rounded-lg" placeholder='enter name' />
           <TextInput placeholder='enter password' secureTextEntry className="bg-white m-10 h-10 p-2 text-lg rounded-lg" />
